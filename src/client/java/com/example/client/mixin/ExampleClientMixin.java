@@ -1,4 +1,4 @@
-package com.example.mixin.client;
+package com.example.client.mixin;
 
 import net.minecraft.client.Minecraft;
 import org.spongepowered.asm.mixin.Mixin;
