@@ -6,7 +6,7 @@ A simple client-side Fabric mod that removes the smooth sneaking camera transiti
 
 | Branch | Minecraft Version | Download |
 |--------|-------------------|----------|
-| [26.1.2](https://github.com/pit-mod/NoSneakAnimation/tree/26.1.2) | 26.1.x | [Releases](https://github.com/pit-mod/NoSneakAnimation/releases) |
+| [26.2](https://github.com/pit-mod/NoSneakAnimation/tree/26.2) | 26.2 | [Releases](https://github.com/pit-mod/NoSneakAnimation/releases) |
 | [1.21.x](https://github.com/pit-mod/NoSneakAnimation/tree/1.21.x) | 1.21 – 1.21.x | [Releases](https://github.com/pit-mod/NoSneakAnimation/releases) |
 
 ## Features
