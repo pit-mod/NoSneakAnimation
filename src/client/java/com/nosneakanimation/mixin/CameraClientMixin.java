@@ -36,8 +36,6 @@ public abstract class CameraClientMixin {
                 return;
             }
         }
-        // Since we want instant sneaking, we don't apply smoothing when crouching/uncrouching.
-        // We still apply smoothing for other eye height changes (like swimming maybe).
         eyeHeight += (this.entity.getEyeHeight() - this.eyeHeight) * 0.5f;
     }
 }
